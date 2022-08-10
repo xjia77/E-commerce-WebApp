@@ -13,3 +13,7 @@ This item displays the products. Users can add and remove products from the shop
 ## Running this project
 
 To get the project up and running, you should first install Python on your computer. It is recommended to create a virtual environment to store your project dependencies separately. Here it is recommended to install virtualenv.
+
+```
+pip install virtualenv
+```
