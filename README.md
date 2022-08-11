@@ -18,7 +18,7 @@ To get the project up and running, you should first install Python on your compu
 pip install virtualenv
 ```
 
-After that, clone this repository and open it in the editor of your choice. In the terminal, run the following command in the project's base directory:
+After that, clone this repository and open it in the editor of your choice. In the terminal, run the following command in the project's base directory.
 
 ```
 virtualenv env
