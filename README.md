@@ -28,3 +28,8 @@ Then you can run the activation command.
 ```
 source env/bin/active
 ```
+
+Then we can install the project dependencies.
+```
+pip install -r requirements.txt
+```
