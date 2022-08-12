@@ -23,3 +23,8 @@ After that, clone this repository and open it in the editor of your choice. In t
 ```
 virtualenv env
 ```
+
+Then you can run the activation command.
+```
+source env/bin/active
+```
