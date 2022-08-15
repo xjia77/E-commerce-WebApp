@@ -39,5 +39,5 @@ Now the project can be run using the command.
 python manage.py runserver
 ```
 
-If you want the payment to work, you will need to enter your own Stripe API key in the .env file.
+If you want the payment to work, you will need to enter your own Stripe API key in the `.env` file.
 
