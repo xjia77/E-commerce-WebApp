@@ -38,3 +38,5 @@ Now the project can be run using the command.
 ```
 python manage.py runserver
 ```
+```
+```
