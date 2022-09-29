@@ -34,7 +34,7 @@ Then we can install the project dependencies.
 pip install -r requirements.txt
 ```
 
-Now, the project can be run using the command. 
+Now, the project can be run using this command. 
 ```
 python manage.py runserver
 ```
