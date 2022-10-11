@@ -29,7 +29,7 @@ Then, you can run the activation command.
 source env/bin/active
 ```
 
-Then we can install the project dependencies.
+Then we can install  project dependencies.
 ```
 pip install -r requirements.txt
 ```
